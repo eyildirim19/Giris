@@ -5,11 +5,21 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{65391238-9D45-4374-BF03-7909810CB466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{FE82AFFC-D6F3-4BFF-9A62-9AD7FFD9DB9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{FE82AFFC-D6F3-4BFF-9A62-9AD7FFD9DB9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCasting", "TypeCasting\TypeCasting.csproj", "{0A4E3B42-48BA-4E6D-975C-74AD1D14F544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeCasting", "TypeCasting\TypeCasting.csproj", "{0A4E3B42-48BA-4E6D-975C-74AD1D14F544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConvert", "TypeConvert\TypeConvert.csproj", "{F8342091-6807-403D-96E4-543AA0A592C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConvert", "TypeConvert\TypeConvert.csproj", "{F8342091-6807-403D-96E4-543AA0A592C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertApp", "ConvertApp\ConvertApp.csproj", "{9E9E5529-922A-4AC7-B1A8-F1D8F82FB9C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions_if", "Conditions_if\Conditions_if.csproj", "{89801003-C9A2-421F-A414-9A47717366ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_else", "Condition_if_else\Condition_if_else.csproj", "{DB988E8A-6653-4E98-B6D2-2887E83380B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_elseif_else", "Condition_if_elseif_else\Condition_if_elseif_else.csproj", "{C3D6C258-3B91-4637-B800-0C882885668F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_app1", "Condition_if_app1\Condition_if_app1.csproj", "{6F52B8E8-0DD8-45CE-89CB-83DC4B767471}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +43,26 @@ Global
 		{F8342091-6807-403D-96E4-543AA0A592C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8342091-6807-403D-96E4-543AA0A592C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8342091-6807-403D-96E4-543AA0A592C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9E5529-922A-4AC7-B1A8-F1D8F82FB9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9E5529-922A-4AC7-B1A8-F1D8F82FB9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9E5529-922A-4AC7-B1A8-F1D8F82FB9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9E5529-922A-4AC7-B1A8-F1D8F82FB9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89801003-C9A2-421F-A414-9A47717366ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89801003-C9A2-421F-A414-9A47717366ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89801003-C9A2-421F-A414-9A47717366ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89801003-C9A2-421F-A414-9A47717366ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB988E8A-6653-4E98-B6D2-2887E83380B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB988E8A-6653-4E98-B6D2-2887E83380B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB988E8A-6653-4E98-B6D2-2887E83380B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB988E8A-6653-4E98-B6D2-2887E83380B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D6C258-3B91-4637-B800-0C882885668F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D6C258-3B91-4637-B800-0C882885668F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D6C258-3B91-4637-B800-0C882885668F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D6C258-3B91-4637-B800-0C882885668F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F52B8E8-0DD8-45CE-89CB-83DC4B767471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F52B8E8-0DD8-45CE-89CB-83DC4B767471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F52B8E8-0DD8-45CE-89CB-83DC4B767471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F52B8E8-0DD8-45CE-89CB-83DC4B767471}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

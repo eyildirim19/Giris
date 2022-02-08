@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_app1", "Condit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_app2", "Condition_if_app2\Condition_if_app2.csproj", "{A2DE284A-2607-43D7-AEF4-FA1BCA63F87D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_switchCase", "Condition_switchCase\Condition_switchCase.csproj", "{27C7D577-CD66-4178-A567-3F3C19CE55FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_switchCase_app1", "Condition_switchCase_app1\Condition_switchCase_app1.csproj", "{7FE54404-22C5-4FFE-86F8-D2439161093A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{A2DE284A-2607-43D7-AEF4-FA1BCA63F87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2DE284A-2607-43D7-AEF4-FA1BCA63F87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2DE284A-2607-43D7-AEF4-FA1BCA63F87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C7D577-CD66-4178-A567-3F3C19CE55FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C7D577-CD66-4178-A567-3F3C19CE55FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C7D577-CD66-4178-A567-3F3C19CE55FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C7D577-CD66-4178-A567-3F3C19CE55FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE54404-22C5-4FFE-86F8-D2439161093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE54404-22C5-4FFE-86F8-D2439161093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE54404-22C5-4FFE-86F8-D2439161093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE54404-22C5-4FFE-86F8-D2439161093A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

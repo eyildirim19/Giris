@@ -11,27 +11,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeCasting", "TypeCasting\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConvert", "TypeConvert\TypeConvert.csproj", "{F8342091-6807-403D-96E4-543AA0A592C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertApp", "ConvertApp\ConvertApp.csproj", "{9E9E5529-922A-4AC7-B1A8-F1D8F82FB9C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertApp", "ConvertApp\ConvertApp.csproj", "{9E9E5529-922A-4AC7-B1A8-F1D8F82FB9C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions_if", "Conditions_if\Conditions_if.csproj", "{89801003-C9A2-421F-A414-9A47717366ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditions_if", "Conditions_if\Conditions_if.csproj", "{89801003-C9A2-421F-A414-9A47717366ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_else", "Condition_if_else\Condition_if_else.csproj", "{DB988E8A-6653-4E98-B6D2-2887E83380B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condition_if_else", "Condition_if_else\Condition_if_else.csproj", "{DB988E8A-6653-4E98-B6D2-2887E83380B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_elseif_else", "Condition_if_elseif_else\Condition_if_elseif_else.csproj", "{C3D6C258-3B91-4637-B800-0C882885668F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condition_if_elseif_else", "Condition_if_elseif_else\Condition_if_elseif_else.csproj", "{C3D6C258-3B91-4637-B800-0C882885668F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_app1", "Condition_if_app1\Condition_if_app1.csproj", "{6F52B8E8-0DD8-45CE-89CB-83DC4B767471}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condition_if_app1", "Condition_if_app1\Condition_if_app1.csproj", "{6F52B8E8-0DD8-45CE-89CB-83DC4B767471}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_if_app2", "Condition_if_app2\Condition_if_app2.csproj", "{A2DE284A-2607-43D7-AEF4-FA1BCA63F87D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condition_if_app2", "Condition_if_app2\Condition_if_app2.csproj", "{A2DE284A-2607-43D7-AEF4-FA1BCA63F87D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_switchCase", "Condition_switchCase\Condition_switchCase.csproj", "{27C7D577-CD66-4178-A567-3F3C19CE55FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condition_switchCase", "Condition_switchCase\Condition_switchCase.csproj", "{27C7D577-CD66-4178-A567-3F3C19CE55FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condition_switchCase_app1", "Condition_switchCase_app1\Condition_switchCase_app1.csproj", "{7FE54404-22C5-4FFE-86F8-D2439161093A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condition_switchCase_app1", "Condition_switchCase_app1\Condition_switchCase_app1.csproj", "{7FE54404-22C5-4FFE-86F8-D2439161093A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops(Dongu)_For", "Loops(Dongu)_For\Loops(Dongu)_For.csproj", "{9716655F-202C-438B-8F1E-4BC0D5B6DF81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops(Dongu)_For", "Loops(Dongu)_For\Loops(Dongu)_For.csproj", "{9716655F-202C-438B-8F1E-4BC0D5B6DF81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App1", "Loops_App1\Loops_App1.csproj", "{BDCAFD00-BFF3-48BA-AC35-A88B47BB4B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_App1", "Loops_App1\Loops_App1.csproj", "{BDCAFD00-BFF3-48BA-AC35-A88B47BB4B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App2", "Loops_App2\Loops_App2.csproj", "{3189B6EF-3DBF-43AE-9FA1-5EFA4F1F179D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_App2", "Loops_App2\Loops_App2.csproj", "{3189B6EF-3DBF-43AE-9FA1-5EFA4F1F179D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App3", "Loops_App3\Loops_App3.csproj", "{D304A596-7674-4872-81C1-DD577CEF8EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App4", "Loops_App4\Loops_App4.csproj", "{48CAD4AC-1080-49B3-A7F7-7A6A9410DADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App5", "Loops_App5\Loops_App5.csproj", "{9A5364E9-066E-4124-AC6B-E51358F2CDEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{3189B6EF-3DBF-43AE-9FA1-5EFA4F1F179D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3189B6EF-3DBF-43AE-9FA1-5EFA4F1F179D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3189B6EF-3DBF-43AE-9FA1-5EFA4F1F179D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D304A596-7674-4872-81C1-DD577CEF8EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D304A596-7674-4872-81C1-DD577CEF8EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D304A596-7674-4872-81C1-DD577CEF8EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D304A596-7674-4872-81C1-DD577CEF8EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CAD4AC-1080-49B3-A7F7-7A6A9410DADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CAD4AC-1080-49B3-A7F7-7A6A9410DADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CAD4AC-1080-49B3-A7F7-7A6A9410DADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CAD4AC-1080-49B3-A7F7-7A6A9410DADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A5364E9-066E-4124-AC6B-E51358F2CDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5364E9-066E-4124-AC6B-E51358F2CDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5364E9-066E-4124-AC6B-E51358F2CDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5364E9-066E-4124-AC6B-E51358F2CDEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

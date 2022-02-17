@@ -9,19 +9,36 @@ char[] ka = { 'e', 'k', 'r', 'e', 'm' };
 
 int a = 11, b = 6, c = 20, d = 30, e = 2;
 int[] nums = { a, b, c, d, e };
-int min = nums[0], max = nums[0]; // 11
 
+
+int min = nums[0], max = nums[0]; // 11
 foreach (int num in nums)
 {
     if (num > max)
     {
-        max = num;
+        max = num; // 30
     }
 
     if (num < min)
     {
-        min = num;
+        min = num; // 2
     }
 }
 
+Console.WriteLine($"min = {min} & max = {max}");
+// for ile....
+min = nums[0]; max = nums[0];
+for (int i = 0; i < nums.Length; i++)
+{
+    int num = nums[i];
+    if (num > max)
+    {
+        max = num;
+    }
+    if (num < min)
+    {
+        min = num;
+    }
+    Console.WriteLine(nums[i]);
+}
 Console.WriteLine($"min = {min} & max = {max}");

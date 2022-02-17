@@ -33,19 +33,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_App1", "Loops_App1\Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_App2", "Loops_App2\Loops_App2.csproj", "{3189B6EF-3DBF-43AE-9FA1-5EFA4F1F179D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App3", "Loops_App3\Loops_App3.csproj", "{D304A596-7674-4872-81C1-DD577CEF8EEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_App3", "Loops_App3\Loops_App3.csproj", "{D304A596-7674-4872-81C1-DD577CEF8EEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App4", "Loops_App4\Loops_App4.csproj", "{48CAD4AC-1080-49B3-A7F7-7A6A9410DADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_App4", "Loops_App4\Loops_App4.csproj", "{48CAD4AC-1080-49B3-A7F7-7A6A9410DADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_App5", "Loops_App5\Loops_App5.csproj", "{9A5364E9-066E-4124-AC6B-E51358F2CDEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_App5", "Loops_App5\Loops_App5.csproj", "{9A5364E9-066E-4124-AC6B-E51358F2CDEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_1", "Arrays_1\Arrays_1.csproj", "{A0484D80-57BE-4A93-93F8-4C2F515A3A49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_1", "Arrays_1\Arrays_1.csproj", "{A0484D80-57BE-4A93-93F8-4C2F515A3A49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays2", "Arrays2\Arrays2.csproj", "{0788A791-03CD-4E8D-8B68-FD664E28197B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays2", "Arrays2\Arrays2.csproj", "{0788A791-03CD-4E8D-8B68-FD664E28197B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_3", "Arrays_3\Arrays_3.csproj", "{4F06D7F5-D254-4472-A59C-2201C7FF8F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_3", "Arrays_3\Arrays_3.csproj", "{4F06D7F5-D254-4472-A59C-2201C7FF8F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_4", "Arrays_4\Arrays_4.csproj", "{29CD1E5B-0ED3-4AD9-8CEF-FAD1462698EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_4", "Arrays_4\Arrays_4.csproj", "{29CD1E5B-0ED3-4AD9-8CEF-FAD1462698EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_5", "Arrays_5\Arrays_5.csproj", "{5BDBBC0E-1942-4A1E-9CDF-BD2F4BB79389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_6", "Arrays_6\Arrays_6.csproj", "{2EDA228E-EBDD-4ACD-9CE6-68A9C0A4C278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_7_Ornek", "Arrays_7_Ornek\Arrays_7_Ornek.csproj", "{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +147,18 @@ Global
 		{29CD1E5B-0ED3-4AD9-8CEF-FAD1462698EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29CD1E5B-0ED3-4AD9-8CEF-FAD1462698EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29CD1E5B-0ED3-4AD9-8CEF-FAD1462698EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDBBC0E-1942-4A1E-9CDF-BD2F4BB79389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDBBC0E-1942-4A1E-9CDF-BD2F4BB79389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDBBC0E-1942-4A1E-9CDF-BD2F4BB79389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDBBC0E-1942-4A1E-9CDF-BD2F4BB79389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDA228E-EBDD-4ACD-9CE6-68A9C0A4C278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDA228E-EBDD-4ACD-9CE6-68A9C0A4C278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDA228E-EBDD-4ACD-9CE6-68A9C0A4C278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDA228E-EBDD-4ACD-9CE6-68A9C0A4C278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

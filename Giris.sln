@@ -47,11 +47,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_3", "Arrays_3\Arrays
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_4", "Arrays_4\Arrays_4.csproj", "{29CD1E5B-0ED3-4AD9-8CEF-FAD1462698EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_5", "Arrays_5\Arrays_5.csproj", "{5BDBBC0E-1942-4A1E-9CDF-BD2F4BB79389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_5", "Arrays_5\Arrays_5.csproj", "{5BDBBC0E-1942-4A1E-9CDF-BD2F4BB79389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_6", "Arrays_6\Arrays_6.csproj", "{2EDA228E-EBDD-4ACD-9CE6-68A9C0A4C278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_6", "Arrays_6\Arrays_6.csproj", "{2EDA228E-EBDD-4ACD-9CE6-68A9C0A4C278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_7_Ornek", "Arrays_7_Ornek\Arrays_7_Ornek.csproj", "{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_7_Ornek", "Arrays_7_Ornek\Arrays_7_Ornek.csproj", "{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_8_Ornek", "Arrays_8_Ornek\Arrays_8_Ornek.csproj", "{0BF20FA9-6D7D-48D7-9D1B-722AB09DA0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_9_Ornek", "Arrays_9_Ornek\Arrays_9_Ornek.csproj", "{FEC3C7CF-701D-4A16-8961-9405E98D8E11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +163,14 @@ Global
 		{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF20FA9-6D7D-48D7-9D1B-722AB09DA0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF20FA9-6D7D-48D7-9D1B-722AB09DA0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF20FA9-6D7D-48D7-9D1B-722AB09DA0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF20FA9-6D7D-48D7-9D1B-722AB09DA0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC3C7CF-701D-4A16-8961-9405E98D8E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC3C7CF-701D-4A16-8961-9405E98D8E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC3C7CF-701D-4A16-8961-9405E98D8E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC3C7CF-701D-4A16-8961-9405E98D8E11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

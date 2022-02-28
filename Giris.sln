@@ -53,21 +53,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_6", "Arrays_6\Arrays
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_7_Ornek", "Arrays_7_Ornek\Arrays_7_Ornek.csproj", "{F3FF4725-9EDB-49FC-98CA-A5B1000F1585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_8_Ornek", "Arrays_8_Ornek\Arrays_8_Ornek.csproj", "{0BF20FA9-6D7D-48D7-9D1B-722AB09DA0BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_8_Ornek", "Arrays_8_Ornek\Arrays_8_Ornek.csproj", "{0BF20FA9-6D7D-48D7-9D1B-722AB09DA0BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_9_Ornek", "Arrays_9_Ornek\Arrays_9_Ornek.csproj", "{FEC3C7CF-701D-4A16-8961-9405E98D8E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays_9_Ornek", "Arrays_9_Ornek\Arrays_9_Ornek.csproj", "{FEC3C7CF-701D-4A16-8961-9405E98D8E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInceleme", "StringInceleme\StringInceleme.csproj", "{63D7F50F-F10F-4ED8-8B32-683BAA277EC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInceleme", "StringInceleme\StringInceleme.csproj", "{63D7F50F-F10F-4ED8-8B32-683BAA277EC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInceleme2", "StringInceleme2\StringInceleme2.csproj", "{FC1458FD-D9D3-42C5-9CCF-30FED5361AE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInceleme2", "StringInceleme2\StringInceleme2.csproj", "{FC1458FD-D9D3-42C5-9CCF-30FED5361AE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInceleme3", "StringInceleme3\StringInceleme3.csproj", "{B64B1E2B-C55F-4482-98CE-3503F7581230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInceleme3", "StringInceleme3\StringInceleme3.csproj", "{B64B1E2B-C55F-4482-98CE-3503F7581230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method1", "Method1\Method1.csproj", "{DBB8133D-ECA5-474C-AC7E-B0AE628872B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method1", "Method1\Method1.csproj", "{DBB8133D-ECA5-474C-AC7E-B0AE628872B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot2", "Metot2\Metot2.csproj", "{4E73B8E6-3BDE-477B-BE8C-AC733BE733F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metot2", "Metot2\Metot2.csproj", "{4E73B8E6-3BDE-477B-BE8C-AC733BE733F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot3", "Metot3\Metot3.csproj", "{4403610D-1DF6-4BF4-A0D5-C15A6C5CBF11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metot3", "Metot3\Metot3.csproj", "{4403610D-1DF6-4BF4-A0D5-C15A6C5CBF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot4", "Metot4\Metot4.csproj", "{7840BA62-CA3C-46E2-8E83-B580C156F5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot5", "Metot5\Metot5.csproj", "{01015F88-703A-4E13-8A08-ADFC45DE1BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot6", "Metot6\Metot6.csproj", "{085B4301-A528-4F72-91A2-A3C0D71BED1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +213,18 @@ Global
 		{4403610D-1DF6-4BF4-A0D5-C15A6C5CBF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4403610D-1DF6-4BF4-A0D5-C15A6C5CBF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4403610D-1DF6-4BF4-A0D5-C15A6C5CBF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7840BA62-CA3C-46E2-8E83-B580C156F5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7840BA62-CA3C-46E2-8E83-B580C156F5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7840BA62-CA3C-46E2-8E83-B580C156F5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7840BA62-CA3C-46E2-8E83-B580C156F5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01015F88-703A-4E13-8A08-ADFC45DE1BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01015F88-703A-4E13-8A08-ADFC45DE1BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01015F88-703A-4E13-8A08-ADFC45DE1BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01015F88-703A-4E13-8A08-ADFC45DE1BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085B4301-A528-4F72-91A2-A3C0D71BED1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085B4301-A528-4F72-91A2-A3C0D71BED1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085B4301-A528-4F72-91A2-A3C0D71BED1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085B4301-A528-4F72-91A2-A3C0D71BED1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot5", "Metot5\Metot5.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot6", "Metot6\Metot6.csproj", "{085B4301-A528-4F72-91A2-A3C0D71BED1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metot7", "Metot7\Metot7.csproj", "{CAB44DB9-2EDA-4229-B5F5-7E1EE0C102EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{085B4301-A528-4F72-91A2-A3C0D71BED1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{085B4301-A528-4F72-91A2-A3C0D71BED1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{085B4301-A528-4F72-91A2-A3C0D71BED1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB44DB9-2EDA-4229-B5F5-7E1EE0C102EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB44DB9-2EDA-4229-B5F5-7E1EE0C102EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB44DB9-2EDA-4229-B5F5-7E1EE0C102EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB44DB9-2EDA-4229-B5F5-7E1EE0C102EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
